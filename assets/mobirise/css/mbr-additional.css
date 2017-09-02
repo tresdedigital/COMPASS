@@ -1,0 +1,1586 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+
+
+
+
+
+
+#dropdown-menu-2btn-3t .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-3t .nav .link,
+#dropdown-menu-2btn-3t .dropdown-item {
+  font-size: 0.8em;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+}
+#dropdown-menu-2btn-3t .navbar,
+#dropdown-menu-2btn-3t .dropdown-menu {
+  background: #1e1a34;
+}
+#dropdown-menu-2btn-3t .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-3t .dropdown-menu a:hover,
+#dropdown-menu-2btn-3t .dropdown-menu a:focus {
+  background: #161326;
+}
+#dropdown-menu-2btn-3t .navbar-toggler {
+  color: #ffffff;
+}
+#dropdown-menu-2btn-3t button {
+  padding-top: 18px;
+}
+@media (max-width: 799px) {
+  #dropdown-menu-2btn-3t .dropdown-toggle {
+    display: inline-block;
+    margin-top: -20px;
+  }
+}
+@media (min-width: 680px) and (max-width: 1000px) {
+  #dropdown-menu-2btn-3t .nav-item {
+    font-size: 10px;
+    margin-left: 0px;
+    margin-right: 2px;
+  }
+  #dropdown-menu-2btn-3t img {
+    margin-left: -10px;
+    margin-right: 0px;
+    padding-right: 2px;
+  }
+}
+@media (min-width: 800px) {
+  #dropdown-menu-2btn-3t .dropdown-toggle {
+    margin-left: -35px;
+    padding-right: 0px;
+    padding-bottom: 5px;
+  }
+  #dropdown-menu-2btn-3t .nav-item {
+    border-bottom: 2px transparent solid;
+    -webkit-transition-property: border-bottom;
+    transition-property: border-bottom;
+    -webkit-transition-duration: 200ms;
+    transition-duration: 200ms;
+    -webkit-transition-timing-function: ease-in-out;
+    transition-timing-function: ease-in-out;
+    cursor: pointer;
+  }
+  #dropdown-menu-2btn-3t .dropdown-toggle:hover {
+    border-bottom: 2px transparent solid;
+  }
+  #dropdown-menu-2btn-3t .nav-item:hover {
+    border-bottom: 2px #dde5ed solid;
+  }
+  #dropdown-menu-2btn-3t .navbar-dropdown .navbar-nav > li > .dropdown-menu {
+    margin-left: -40px;
+  }
+}
+#header1-8 H1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 36px;
+}
+#header1-8 P {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 23px;
+}
+@media (min-width: 680px) {
+  #header1-8 h1 {
+    font-size: 40px;
+  }
+}
+#content5-7 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #535353;
+  font-size: 36px;
+  font-family: 'Montserrat', sans-serif;
+}
+#content5-7 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-7 .mbr-article {
+  color: #fff;
+}
+#content5-7 .mbr-article P {
+  color: #7e7e7e;
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+#features1-9 {
+  
+  
+}
+#features1-9 .mbr-section__col .mbr-header__text {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  color: #535353;
+  font-size: 23px;
+}
+#features1-9 P {
+  text-align: center;
+  font-size: 20px;
+  color: #7e7e7e;
+}
+#features1-9 .mbr-section-title .mbr-header__text {
+  font-size: 46px;
+  font-family: 'Montserrat', sans-serif;
+  color: #535353;
+}
+#features1-9 .mbr-figure {
+  height: auto;
+  width: 130px;
+}
+#slider-2f H1 {
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+  color: #dde5ed;
+}
+#slider-2f P {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 21px;
+  text-align: left;
+  color: #dde5ed;
+}
+#features1-c {
+  
+  
+}
+#features1-c .mbr-section__col .mbr-header__text {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  color: #535353;
+}
+#features1-c P {
+  text-align: center;
+  font-size: 20px;
+  color: #7e7e7e;
+}
+#features1-c .mbr-section-title .mbr-header__text {
+  font-size: 46px;
+  font-family: 'Montserrat', sans-serif;
+  color: #535353;
+}
+#features1-c .mbr-figure {
+  width: 160px;
+  height: auto;
+  border-radius: 50%;
+}
+#features1-c .mbr-section--fixed-size {
+  padding-bottom: 70px;
+  background-color: #DDE5ED;
+}
+#contacts3-44 {
+  
+}
+#contacts3-44 B {
+  font-size: 20px;
+}
+#contacts3-44 P {
+  color: #1e1a34;
+}
+#contacts3-44 STRONG {
+  font-size: 22px;
+}
+#contacts3-44 P {
+  font-size: 15px;
+  text-align: center;
+  color: #dde5ed;
+  font-family: 'Montserrat', sans-serif;
+}
+#contacts3-44 .input-inverse {
+  background-color: #DDE5ED;
+}
+@media (min-width: 768px) {
+  #contacts3-44 .col-sm-1,
+  #contacts3-44 .col-sm-2,
+  #contacts3-44 .col-sm-3,
+  #contacts3-44 .col-sm-4,
+  #contacts3-44 .col-sm-5,
+  #contacts3-44 .col-sm-6,
+  #contacts3-44 .col-sm-7,
+  #contacts3-44 .col-sm-8,
+  #contacts3-44 .col-sm-9,
+  #contacts3-44 .col-sm-10,
+  #contacts3-44 .col-sm-11,
+  #contacts3-44 .col-sm-12 {
+    float: right;
+  }
+}
+@media (min-width: 561px) and (max-width: 1000px) {
+  #contacts3-44 .mbr-contacts__column {
+    display: inline-block;
+    max-width: 330px;
+  }
+}
+@media (max-width: 560px) {
+  #contacts3-44 .mbr-contacts__column {
+    max-width: 330px;
+  }
+  #contacts3-44 .col-sm-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #contacts3-44 .mbr-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #contacts3-44 .container {
+    width: 300px;
+  }
+}
+#contacts1-2i {
+  /* Style all font awesome icons */
+  /* Add a hover effect if you want */
+  /* Set a specific color for each brand */
+  /* Facebook */
+  /* Instagram */
+  /* Linked In */
+}
+#contacts1-2i P {
+  text-align: center;
+}
+#contacts1-2i .logo-footer {
+  width: 180px;
+}
+#contacts1-2i .logo-footer img {
+  width: 180px;
+}
+@media (min-width: 551px) and (max-width: 1000px) {
+  #contacts1-2i .col-sm-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #contacts1-2i .mbr-editable-content {
+    max-width: 300px;
+    padding-bottom: 25px;
+    margin: 0px;
+  }
+  #contacts1-2i .mbr-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+@media (max-width: 550px) {
+  #contacts1-2i .col-sm-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #contacts1-2i .mbr-editable-content {
+    max-width: 300px;
+    padding-bottom: 25px;
+    margin: 0px;
+  }
+  #contacts1-2i .mbr-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+#contacts1-2i .container {
+  background-color: #1e1a34;
+}
+#contacts1-2i .fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+#contacts1-2i .fa:hover {
+  opacity: 0.7;
+}
+#contacts1-2i .fa-facebook {
+  background: #1e1a34;
+  color: #DDE5ED;
+  margin-right: 10px;
+}
+#contacts1-2i .fa-instagram {
+  background: #1e1a34;
+  color: #DDE5ED;
+}
+#contacts1-2i .fa-linkedin {
+  background: #1e1a34;
+  color: #DDE5ED;
+  margin-left: 10px;
+}
+#contacts1-2i .mbr-editable-content {
+  width: 400px;
+  color: #DDE5ED;
+}
+#contacts1-2i .mbr-contacts__text {
+  padding-top: 40px;
+}
+#contacts1-2i .socialicons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 30px;
+}
+#contacts1-2i .fa {
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+
+
+
+
+#dropdown-menu-2btn-3t .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-3t .nav .link,
+#dropdown-menu-2btn-3t .dropdown-item {
+  font-size: 0.8em;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+}
+#dropdown-menu-2btn-3t .navbar,
+#dropdown-menu-2btn-3t .dropdown-menu {
+  background: #1e1a34;
+}
+#dropdown-menu-2btn-3t .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-3t .dropdown-menu a:hover,
+#dropdown-menu-2btn-3t .dropdown-menu a:focus {
+  background: #161326;
+}
+#dropdown-menu-2btn-3t .navbar-toggler {
+  color: #ffffff;
+}
+@media (max-width: 580px) {
+  #dropdown-menu-2btn-3t button {
+    padding-top: 18px;
+  }
+  #dropdown-menu-2btn-3t .dropdown-toggle {
+    display: inline-block;
+  }
+}
+@media (min-width: 680px) {
+  #dropdown-menu-2btn-3t .dropdown-toggle {
+    margin-left: -30px;
+  }
+}
+#header1-1n H1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 36px;
+  text-align: center;
+}
+#header1-1n P {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 22px;
+  text-align: center;
+}
+@media (min-width: 680px) {
+  #header1-1n h1 {
+    font-size: 40px;
+  }
+}
+#content4-3s .mbr-section__col .mbr-header__text {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  color: #535353;
+}
+#content4-3s P {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+#features1-2j {
+  
+}
+#features1-2j .mbr-section-title .mbr-header__text {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  color: #535353;
+}
+@media (min-width: 680px) {
+  #features1-2j .mbr-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #features1-2j img {
+    height: 220px;
+    padding-top: 20px;
+  }
+}
+@media (max-width: 580px) {
+  #features1-2j h3 {
+    padding-top: 20px;
+  }
+}
+#contacts1-2i {
+  /* Style all font awesome icons */
+  /* Add a hover effect if you want */
+  /* Set a specific color for each brand */
+  /* Facebook */
+  /* Instagram */
+  /* Linked In */
+}
+#contacts1-2i P {
+  text-align: center;
+}
+#contacts1-2i .logo-footer {
+  width: 180px;
+}
+#contacts1-2i .logo-footer img {
+  width: 180px;
+}
+@media (min-width: 551px) and (max-width: 1000px) {
+  #contacts1-2i .col-sm-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #contacts1-2i .mbr-editable-content {
+    max-width: 300px;
+    padding-bottom: 25px;
+    margin: 0px;
+  }
+  #contacts1-2i .mbr-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+@media (max-width: 550px) {
+  #contacts1-2i .col-sm-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #contacts1-2i .mbr-editable-content {
+    max-width: 300px;
+    padding-bottom: 25px;
+    margin: 0px;
+  }
+  #contacts1-2i .mbr-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+#contacts1-2i .container {
+  background-color: #1e1a34;
+}
+#contacts1-2i .fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+#contacts1-2i .fa:hover {
+  opacity: 0.7;
+}
+#contacts1-2i .fa-facebook {
+  background: #1e1a34;
+  color: #DDE5ED;
+  margin-right: 10px;
+}
+#contacts1-2i .fa-instagram {
+  background: #1e1a34;
+  color: #DDE5ED;
+}
+#contacts1-2i .fa-linkedin {
+  background: #1e1a34;
+  color: #DDE5ED;
+  margin-left: 10px;
+}
+#contacts1-2i .mbr-editable-content {
+  width: 400px;
+  color: #DDE5ED;
+}
+#contacts1-2i .mbr-contacts__text {
+  padding-top: 40px;
+}
+#contacts1-2i .socialicons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 30px;
+}
+#contacts1-2i .fa {
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+
+
+
+
+
+#dropdown-menu-2btn-3t .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-3t .nav .link,
+#dropdown-menu-2btn-3t .dropdown-item {
+  font-size: 0.8em;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+}
+#dropdown-menu-2btn-3t .navbar,
+#dropdown-menu-2btn-3t .dropdown-menu {
+  background: #1e1a34;
+}
+#dropdown-menu-2btn-3t .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-3t .dropdown-menu a:hover,
+#dropdown-menu-2btn-3t .dropdown-menu a:focus {
+  background: #161326;
+}
+#dropdown-menu-2btn-3t .navbar-toggler {
+  color: #ffffff;
+}
+@media (max-width: 580px) {
+  #dropdown-menu-2btn-3t button {
+    padding-top: 18px;
+  }
+  #dropdown-menu-2btn-3t .dropdown-toggle {
+    display: inline-block;
+  }
+}
+@media (min-width: 680px) {
+  #dropdown-menu-2btn-3t .dropdown-toggle {
+    margin-left: -30px;
+  }
+}
+#header1-3o H1 {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 36px;
+  color: #dde5ed;
+}
+#header1-3o P {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  font-size: 22px;
+}
+@media (min-width: 680px) {
+  #header1-3o h1 {
+    font-size: 40px;
+  }
+}
+#form1-21 .mbr-header__text {
+  font-size: 36px;
+  font-family: 'Montserrat', sans-serif;
+  color: #7e7e7e;
+}
+#form1-21 .btn {
+  font-family: 'Montserrat', sans-serif;
+}
+#contacts2-2p P {
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+  font-size: 16px;
+  color: #535353;
+}
+#contacts2-2p B {
+  color: #535353;
+}
+#contacts2-2p .mbr-contacts__text {
+  width: 400px;
+}
+#contacts1-2i {
+  /* Style all font awesome icons */
+  /* Add a hover effect if you want */
+  /* Set a specific color for each brand */
+  /* Facebook */
+  /* Instagram */
+  /* Linked In */
+}
+#contacts1-2i P {
+  text-align: center;
+}
+#contacts1-2i .logo-footer {
+  width: 180px;
+}
+#contacts1-2i .logo-footer img {
+  width: 180px;
+}
+@media (min-width: 551px) and (max-width: 1000px) {
+  #contacts1-2i .col-sm-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #contacts1-2i .mbr-editable-content {
+    max-width: 300px;
+    padding-bottom: 25px;
+    margin: 0px;
+  }
+  #contacts1-2i .mbr-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+@media (max-width: 550px) {
+  #contacts1-2i .col-sm-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #contacts1-2i .mbr-editable-content {
+    max-width: 300px;
+    padding-bottom: 25px;
+    margin: 0px;
+  }
+  #contacts1-2i .mbr-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+#contacts1-2i .container {
+  background-color: #1e1a34;
+}
+#contacts1-2i .fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+#contacts1-2i .fa:hover {
+  opacity: 0.7;
+}
+#contacts1-2i .fa-facebook {
+  background: #1e1a34;
+  color: #DDE5ED;
+  margin-right: 10px;
+}
+#contacts1-2i .fa-instagram {
+  background: #1e1a34;
+  color: #DDE5ED;
+}
+#contacts1-2i .fa-linkedin {
+  background: #1e1a34;
+  color: #DDE5ED;
+  margin-left: 10px;
+}
+#contacts1-2i .mbr-editable-content {
+  width: 400px;
+  color: #DDE5ED;
+}
+#contacts1-2i .mbr-contacts__text {
+  padding-top: 40px;
+}
+#contacts1-2i .socialicons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 30px;
+}
+#contacts1-2i .fa {
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+
+
+
+
+
+
+
+
+#dropdown-menu-2btn-3t .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-3t .nav .link,
+#dropdown-menu-2btn-3t .dropdown-item {
+  font-size: 0.8em;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+}
+#dropdown-menu-2btn-3t .navbar,
+#dropdown-menu-2btn-3t .dropdown-menu {
+  background: #1e1a34;
+}
+#dropdown-menu-2btn-3t .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-3t .dropdown-menu a:hover,
+#dropdown-menu-2btn-3t .dropdown-menu a:focus {
+  background: #161326;
+}
+#dropdown-menu-2btn-3t .navbar-toggler {
+  color: #ffffff;
+}
+@media (max-width: 580px) {
+  #dropdown-menu-2btn-3t button {
+    padding-top: 18px;
+  }
+  #dropdown-menu-2btn-3t .dropdown-toggle {
+    display: inline-block;
+  }
+}
+@media (min-width: 680px) {
+  #dropdown-menu-2btn-3t .dropdown-toggle {
+    margin-left: -30px;
+  }
+}
+#header4-3h H1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 36px;
+  color: #dde5ed;
+}
+#header4-3h P {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 22px;
+}
+@media (min-width: 680px) {
+  #header4-3h h1 {
+    font-size: 40px;
+  }
+}
+#msg-box4-3a .mbr-header__text {
+  color: #535353;
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+}
+#msg-box4-3a .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-3a .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-3a .mbr-article P {
+  font-family: 'Montserrat', sans-serif;
+  color: #535353;
+}
+@media (min-width: 760px) {
+  #msg-box4-3a img {
+    height: 400px;
+    width: auto;
+    float: left;
+  }
+}
+@media (min-width: 581px) and (max-width: 1000px) {
+  #msg-box4-3a .mbr-section__right {
+    padding-bottom: 30px;
+  }
+  #msg-box4-3a img {
+    padding-top: 30px;
+  }
+}
+@media (max-width: 580px) {
+  #msg-box4-3a .mbr-section__right {
+    padding-bottom: 30px;
+  }
+  #msg-box4-3a img {
+    padding-top: 30px;
+  }
+}
+#msg-box4-3b .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-3b .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-3b .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-3b .mbr-article P {
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+}
+#msg-box4-3b .btn {
+  font-family: 'Montserrat', sans-serif;
+}
+@media (min-width: 760px) {
+  #msg-box4-3b img {
+    height: 400px;
+    width: auto;
+    float: right;
+  }
+}
+@media (min-width: 581px) and (max-width: 1000px) {
+  #msg-box4-3b .mbr-section__right {
+    padding-bottom: 30px;
+  }
+  #msg-box4-3b img {
+    padding-top: 30px;
+  }
+}
+@media (max-width: 580px) {
+  #msg-box4-3b img {
+    padding-bottom: 30px;
+  }
+}
+#msg-box4-3c .mbr-header__text {
+  color: #535353;
+}
+#msg-box4-3c .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-3c .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-3c .mbr-article P {
+  color: #535353;
+  font-family: 'Montserrat', sans-serif;
+}
+#msg-box4-3c .btn {
+  font-family: 'Montserrat', sans-serif;
+}
+@media (min-width: 760px) {
+  #msg-box4-3c img {
+    height: 400px;
+    width: auto;
+    float: left;
+  }
+}
+@media (min-width: 581px) and (max-width: 1000px) {
+  #msg-box4-3c .mbr-section__right {
+    padding-bottom: 30px;
+  }
+  #msg-box4-3c img {
+    padding-top: 30px;
+  }
+}
+@media (max-width: 580px) {
+  #msg-box4-3c .mbr-section__right {
+    padding-bottom: 30px;
+  }
+  #msg-box4-3c img {
+    padding-top: 30px;
+  }
+}
+#contacts1-2i {
+  /* Style all font awesome icons */
+  /* Add a hover effect if you want */
+  /* Set a specific color for each brand */
+  /* Facebook */
+  /* Instagram */
+  /* Linked In */
+}
+#contacts1-2i P {
+  text-align: center;
+}
+#contacts1-2i .logo-footer {
+  width: 180px;
+}
+#contacts1-2i .logo-footer img {
+  width: 180px;
+}
+@media (min-width: 551px) and (max-width: 1000px) {
+  #contacts1-2i .col-sm-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #contacts1-2i .mbr-editable-content {
+    max-width: 300px;
+    padding-bottom: 25px;
+    margin: 0px;
+  }
+  #contacts1-2i .mbr-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+@media (max-width: 550px) {
+  #contacts1-2i .col-sm-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #contacts1-2i .mbr-editable-content {
+    max-width: 300px;
+    padding-bottom: 25px;
+    margin: 0px;
+  }
+  #contacts1-2i .mbr-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+#contacts1-2i .container {
+  background-color: #1e1a34;
+}
+#contacts1-2i .fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+#contacts1-2i .fa:hover {
+  opacity: 0.7;
+}
+#contacts1-2i .fa-facebook {
+  background: #1e1a34;
+  color: #DDE5ED;
+  margin-right: 10px;
+}
+#contacts1-2i .fa-instagram {
+  background: #1e1a34;
+  color: #DDE5ED;
+}
+#contacts1-2i .fa-linkedin {
+  background: #1e1a34;
+  color: #DDE5ED;
+  margin-left: 10px;
+}
+#contacts1-2i .mbr-editable-content {
+  width: 400px;
+  color: #DDE5ED;
+}
+#contacts1-2i .mbr-contacts__text {
+  padding-top: 40px;
+}
+#contacts1-2i .socialicons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 30px;
+}
+#contacts1-2i .fa {
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+
+
+
+#dropdown-menu-2btn-3t .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-3t .nav .link,
+#dropdown-menu-2btn-3t .dropdown-item {
+  font-size: 0.8em;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+}
+#dropdown-menu-2btn-3t .navbar,
+#dropdown-menu-2btn-3t .dropdown-menu {
+  background: #1e1a34;
+}
+#dropdown-menu-2btn-3t .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-3t .dropdown-menu a:hover,
+#dropdown-menu-2btn-3t .dropdown-menu a:focus {
+  background: #161326;
+}
+#dropdown-menu-2btn-3t .navbar-toggler {
+  color: #ffffff;
+}
+@media (max-width: 580px) {
+  #dropdown-menu-2btn-3t button {
+    padding-top: 18px;
+  }
+  #dropdown-menu-2btn-3t .dropdown-toggle {
+    display: inline-block;
+  }
+}
+@media (min-width: 680px) {
+  #dropdown-menu-2btn-3t .dropdown-toggle {
+    margin-left: -30px;
+  }
+}
+#content5-3y .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 36px;
+}
+#content5-3y .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-3y .mbr-article {
+  color: #fff;
+}
+#content5-3y .mbr-article DIV {
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+}
+#content5-3y .btn {
+  font-family: 'Montserrat', sans-serif;
+}
+#contacts1-2i {
+  /* Style all font awesome icons */
+  /* Add a hover effect if you want */
+  /* Set a specific color for each brand */
+  /* Facebook */
+  /* Instagram */
+  /* Linked In */
+}
+#contacts1-2i P {
+  text-align: center;
+}
+#contacts1-2i .logo-footer {
+  width: 180px;
+}
+#contacts1-2i .logo-footer img {
+  width: 180px;
+}
+@media (min-width: 551px) and (max-width: 1000px) {
+  #contacts1-2i .col-sm-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #contacts1-2i .mbr-editable-content {
+    max-width: 300px;
+    padding-bottom: 25px;
+    margin: 0px;
+  }
+  #contacts1-2i .mbr-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+@media (max-width: 550px) {
+  #contacts1-2i .col-sm-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #contacts1-2i .mbr-editable-content {
+    max-width: 300px;
+    padding-bottom: 25px;
+    margin: 0px;
+  }
+  #contacts1-2i .mbr-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+#contacts1-2i .container {
+  background-color: #1e1a34;
+}
+#contacts1-2i .fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+#contacts1-2i .fa:hover {
+  opacity: 0.7;
+}
+#contacts1-2i .fa-facebook {
+  background: #1e1a34;
+  color: #DDE5ED;
+  margin-right: 10px;
+}
+#contacts1-2i .fa-instagram {
+  background: #1e1a34;
+  color: #DDE5ED;
+}
+#contacts1-2i .fa-linkedin {
+  background: #1e1a34;
+  color: #DDE5ED;
+  margin-left: 10px;
+}
+#contacts1-2i .mbr-editable-content {
+  width: 400px;
+  color: #DDE5ED;
+}
+#contacts1-2i .mbr-contacts__text {
+  padding-top: 40px;
+}
+#contacts1-2i .socialicons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 30px;
+}
+#contacts1-2i .fa {
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+
+
+#dropdown-menu-2btn-3t .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-3t .nav .link,
+#dropdown-menu-2btn-3t .dropdown-item {
+  font-size: 0.8em;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+}
+#dropdown-menu-2btn-3t .navbar,
+#dropdown-menu-2btn-3t .dropdown-menu {
+  background: #1e1a34;
+}
+#dropdown-menu-2btn-3t .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-3t .dropdown-menu a:hover,
+#dropdown-menu-2btn-3t .dropdown-menu a:focus {
+  background: #161326;
+}
+#dropdown-menu-2btn-3t .navbar-toggler {
+  color: #ffffff;
+}
+@media (max-width: 580px) {
+  #dropdown-menu-2btn-3t button {
+    padding-top: 18px;
+  }
+  #dropdown-menu-2btn-3t .dropdown-toggle {
+    display: inline-block;
+  }
+}
+@media (min-width: 680px) {
+  #dropdown-menu-2btn-3t .dropdown-toggle {
+    margin-left: -30px;
+  }
+}
+#content5-3z .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 36px;
+}
+#content5-3z .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-3z .mbr-article {
+  color: #fff;
+}
+#content5-3z .mbr-article DIV {
+  font-family: 'Montserrat', sans-serif;
+}
+#contacts1-2i {
+  /* Style all font awesome icons */
+  /* Add a hover effect if you want */
+  /* Set a specific color for each brand */
+  /* Facebook */
+  /* Instagram */
+  /* Linked In */
+}
+#contacts1-2i P {
+  text-align: center;
+}
+#contacts1-2i .logo-footer {
+  width: 180px;
+}
+#contacts1-2i .logo-footer img {
+  width: 180px;
+}
+@media (min-width: 551px) and (max-width: 1000px) {
+  #contacts1-2i .col-sm-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #contacts1-2i .mbr-editable-content {
+    max-width: 300px;
+    padding-bottom: 25px;
+    margin: 0px;
+  }
+  #contacts1-2i .mbr-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+@media (max-width: 550px) {
+  #contacts1-2i .col-sm-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #contacts1-2i .mbr-editable-content {
+    max-width: 300px;
+    padding-bottom: 25px;
+    margin: 0px;
+  }
+  #contacts1-2i .mbr-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+#contacts1-2i .container {
+  background-color: #1e1a34;
+}
+#contacts1-2i .fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+#contacts1-2i .fa:hover {
+  opacity: 0.7;
+}
+#contacts1-2i .fa-facebook {
+  background: #1e1a34;
+  color: #DDE5ED;
+  margin-right: 10px;
+}
+#contacts1-2i .fa-instagram {
+  background: #1e1a34;
+  color: #DDE5ED;
+}
+#contacts1-2i .fa-linkedin {
+  background: #1e1a34;
+  color: #DDE5ED;
+  margin-left: 10px;
+}
+#contacts1-2i .mbr-editable-content {
+  width: 400px;
+  color: #DDE5ED;
+}
+#contacts1-2i .mbr-contacts__text {
+  padding-top: 40px;
+}
+#contacts1-2i .socialicons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 30px;
+}
+#contacts1-2i .fa {
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+
+
+
+#dropdown-menu-2btn-3t .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-3t .nav .link,
+#dropdown-menu-2btn-3t .dropdown-item {
+  font-size: 0.8em;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+}
+#dropdown-menu-2btn-3t .navbar,
+#dropdown-menu-2btn-3t .dropdown-menu {
+  background: #1e1a34;
+}
+#dropdown-menu-2btn-3t .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-3t .dropdown-menu a:hover,
+#dropdown-menu-2btn-3t .dropdown-menu a:focus {
+  background: #161326;
+}
+#dropdown-menu-2btn-3t .navbar-toggler {
+  color: #ffffff;
+}
+@media (max-width: 580px) {
+  #dropdown-menu-2btn-3t button {
+    padding-top: 18px;
+  }
+  #dropdown-menu-2btn-3t .dropdown-toggle {
+    display: inline-block;
+  }
+}
+@media (min-width: 680px) {
+  #dropdown-menu-2btn-3t .dropdown-toggle {
+    margin-left: -30px;
+  }
+}
+#content5-40 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 36px;
+}
+#content5-40 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-40 .mbr-article {
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+}
+#content5-40 .mbr-article DIV {
+  font-family: 'Montserrat', sans-serif;
+}
+#contacts1-2i {
+  /* Style all font awesome icons */
+  /* Add a hover effect if you want */
+  /* Set a specific color for each brand */
+  /* Facebook */
+  /* Instagram */
+  /* Linked In */
+}
+#contacts1-2i P {
+  text-align: center;
+}
+#contacts1-2i .logo-footer {
+  width: 180px;
+}
+#contacts1-2i .logo-footer img {
+  width: 180px;
+}
+@media (min-width: 551px) and (max-width: 1000px) {
+  #contacts1-2i .col-sm-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #contacts1-2i .mbr-editable-content {
+    max-width: 300px;
+    padding-bottom: 25px;
+    margin: 0px;
+  }
+  #contacts1-2i .mbr-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+@media (max-width: 550px) {
+  #contacts1-2i .col-sm-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #contacts1-2i .mbr-editable-content {
+    max-width: 300px;
+    padding-bottom: 25px;
+    margin: 0px;
+  }
+  #contacts1-2i .mbr-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+#contacts1-2i .container {
+  background-color: #1e1a34;
+}
+#contacts1-2i .fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+#contacts1-2i .fa:hover {
+  opacity: 0.7;
+}
+#contacts1-2i .fa-facebook {
+  background: #1e1a34;
+  color: #DDE5ED;
+  margin-right: 10px;
+}
+#contacts1-2i .fa-instagram {
+  background: #1e1a34;
+  color: #DDE5ED;
+}
+#contacts1-2i .fa-linkedin {
+  background: #1e1a34;
+  color: #DDE5ED;
+  margin-left: 10px;
+}
+#contacts1-2i .mbr-editable-content {
+  width: 400px;
+  color: #DDE5ED;
+}
+#contacts1-2i .mbr-contacts__text {
+  padding-top: 40px;
+}
+#contacts1-2i .socialicons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 30px;
+}
+#contacts1-2i .fa {
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+
+
+#dropdown-menu-2btn-3t .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-3t .nav .link,
+#dropdown-menu-2btn-3t .dropdown-item {
+  font-size: 0.8em;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+}
+#dropdown-menu-2btn-3t .navbar,
+#dropdown-menu-2btn-3t .dropdown-menu {
+  background: #1e1a34;
+}
+#dropdown-menu-2btn-3t .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-3t .dropdown-menu a:hover,
+#dropdown-menu-2btn-3t .dropdown-menu a:focus {
+  background: #161326;
+}
+#dropdown-menu-2btn-3t .navbar-toggler {
+  color: #ffffff;
+}
+@media (max-width: 580px) {
+  #dropdown-menu-2btn-3t button {
+    padding-top: 18px;
+  }
+  #dropdown-menu-2btn-3t .dropdown-toggle {
+    display: inline-block;
+  }
+}
+@media (min-width: 680px) {
+  #dropdown-menu-2btn-3t .dropdown-toggle {
+    margin-left: -30px;
+  }
+}
+#header1-2t H1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 36px;
+  text-align: center;
+}
+#header1-2t P {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 22px;
+  text-align: center;
+}
+@media (min-width: 680px) {
+  #header1-2t h1 {
+    font-size: 38px;
+  }
+}
+#features1-2v {
+  
+  
+}
+#features1-2v .mbr-section__col .mbr-header__text {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  color: #535353;
+  font-size: 23px;
+}
+#features1-2v P {
+  text-align: center;
+  font-size: 20px;
+  color: #7e7e7e;
+}
+#features1-2v .mbr-section-title .mbr-header__text {
+  font-size: 46px;
+  font-family: 'Montserrat', sans-serif;
+  color: #535353;
+}
+#features1-2v .mbr-figure {
+  height: auto;
+  width: 130px;
+}
+#features1-2v .container {
+  padding-top: 50px;
+}
+#contacts1-2i {
+  /* Style all font awesome icons */
+  /* Add a hover effect if you want */
+  /* Set a specific color for each brand */
+  /* Facebook */
+  /* Instagram */
+  /* Linked In */
+}
+#contacts1-2i P {
+  text-align: center;
+}
+#contacts1-2i .logo-footer {
+  width: 180px;
+}
+#contacts1-2i .logo-footer img {
+  width: 180px;
+}
+@media (min-width: 551px) and (max-width: 1000px) {
+  #contacts1-2i .col-sm-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #contacts1-2i .mbr-editable-content {
+    max-width: 300px;
+    padding-bottom: 25px;
+    margin: 0px;
+  }
+  #contacts1-2i .mbr-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+@media (max-width: 550px) {
+  #contacts1-2i .col-sm-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #contacts1-2i .mbr-editable-content {
+    max-width: 300px;
+    padding-bottom: 25px;
+    margin: 0px;
+  }
+  #contacts1-2i .mbr-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+#contacts1-2i .container {
+  background-color: #1e1a34;
+}
+#contacts1-2i .fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+#contacts1-2i .fa:hover {
+  opacity: 0.7;
+}
+#contacts1-2i .fa-facebook {
+  background: #1e1a34;
+  color: #DDE5ED;
+  margin-right: 10px;
+}
+#contacts1-2i .fa-instagram {
+  background: #1e1a34;
+  color: #DDE5ED;
+}
+#contacts1-2i .fa-linkedin {
+  background: #1e1a34;
+  color: #DDE5ED;
+  margin-left: 10px;
+}
+#contacts1-2i .mbr-editable-content {
+  width: 400px;
+  color: #DDE5ED;
+}
+#contacts1-2i .mbr-contacts__text {
+  padding-top: 40px;
+}
+#contacts1-2i .socialicons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 30px;
+}
+#contacts1-2i .fa {
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
